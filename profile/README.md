@@ -1,11 +1,7 @@
 # Rhythm Industries
 
-**Rhythm Industries** is an independent research and engineering studio exploring
-the relationship between humans, machines, and time.
+**Rhythm Industries** manufactured industrial instruments in Batavia, Ohio in the 1980s.
 
-We build tools, systems, and experiments that aim to improve the quality of
-digitized life.
+The work emphasized accuracy, durability, and serviceability. Instruments were designed to meet exacting requirements and to provide long and accurate service in industrial and military environments.
 
-Clear signal, quiet noise  
-Mind, heart, and gut aligned  
-Careful steps forward
+Repositories here contains factory records, surviving documentation, and related artifacts. Materials are presented as found, with minimal interpretation.
